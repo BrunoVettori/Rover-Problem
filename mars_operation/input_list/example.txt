@@ -1,0 +1,21 @@
+Put the plateau x and y cordenates (respectively) separating by space
+
+12 16
+
+Put the rover starting x and y cordenates and the cardinal direction (respectively) separated by space 
+
+5 6 E
+
+Put the instruction list for the rover to follow, L for 90º left, R for 90º right and M for forward movement
+
+LMRMLMLMM
+
+Then repeat as many rovers as you like
+
+This is an example of the complete input list
+
+12 16
+5 6 E
+LMRMLMLMM
+2 1 N
+LMRMMMRL
